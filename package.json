@@ -1,0 +1,21 @@
+{
+  "name": "gaffa-tabs",
+  "version": "1.1.2",
+  "description": "A simple tabs view for gaffa",
+  "main": "index.js",
+  "dependencies": {
+    "crel": "^2.1.2",
+    "gaffa-list": "^1.2.0",
+    "slabs": "^1.0.3"
+  },
+  "devDependencies": {
+    "gaffa": "^1.14.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "publishConfig": {
+    "registry": "https://npm.yoik.net/"
+  }
+}
